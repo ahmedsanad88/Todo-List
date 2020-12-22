@@ -23,7 +23,7 @@ MongoDB}
 
 ## Installation
 
-Use the package manager [npm] to install tiktok-clone.
+Use the package manager [npm] to install Todo-List.
 
 ```bash
 npm install
