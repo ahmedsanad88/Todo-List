@@ -1,5 +1,5 @@
 # Todo-List
-Very simple structure of TODO List....
+A very simple structure of TODO List which will be a basic structure for using {HTML, CSS, JS, Ejs, MongoDB} technology together, and the app will add your todo in real-time and add different pages as per your request. You can mark todo as done and will automatically disappear.
 
 
 # How it's looking on live?
